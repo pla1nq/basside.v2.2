@@ -32,7 +32,6 @@
 
     background-color: rgba(0, 0, 0, 0.5);
     background-color: rgba(14, 14, 14, 0.6);
-
   }
 
   &__title {
@@ -71,7 +70,7 @@
     &.is-active {
       opacity: 1;
       transform: scale(1);
-      transition: all 1s 0.1s;
+      transition: all 1s;
     }
 
     span {
